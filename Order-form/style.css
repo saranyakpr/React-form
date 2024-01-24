@@ -1,0 +1,25 @@
+li{
+    list-style-type: none;
+}
+.mainExtra{
+    display: none;
+}
+.main{
+    display: block;
+}
+.order{
+    margin-left: 20rem;
+    margin-top: 5rem;
+}
+input{
+    padding: .5rem;
+}
+.item{
+    margin-bottom: 1rem;
+}
+.btn{
+    background-color: green;
+    color: white;
+    border-radius: 2rem;
+}
+
